@@ -1,5 +1,9 @@
 # PhotoEditor
 
+***IMPORTANT***
+If you use save before you start a new session or new photos will override the old ones
+Also the code is located in the master branch
+
 My project name is a Photo Editor. My team name is Me and I. I have decided to work alone on this project.'
 
 I am trying to build a photo editor that has a few different options to edit a photo. I plan to include color changes, mirroring, and a fun one to make the picture funny. I may possibly add more as I get working on it but I am not entirely sure of other things to do at the moment.
